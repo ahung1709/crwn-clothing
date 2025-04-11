@@ -29,6 +29,7 @@
     "sass": "^1.78.0",
     "stripe": "^17.6.0",
     "styled-components": "^6.1.14",
+    "typed-redux-saga": "^1.5.0",
     "typescript": "^5.8.2",
     "web-vitals": "^2.1.4"
   },
@@ -55,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-macros": "^3.1.0"
   }
 }
